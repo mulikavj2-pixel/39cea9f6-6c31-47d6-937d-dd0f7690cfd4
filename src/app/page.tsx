@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/themeProvider/ThemeProvider";
 import NavbarStyleMinimal from '@/components/navbar/NavbarStyleMinimal';
@@ -43,7 +43,7 @@ export default function LandingPage() {
           description="We build scalable, innovative software solutions that drive growth. From concept to deployment, we deliver excellence at every step."
           tags={["Custom Software", "Web Development", "Mobile Apps", "Cloud Solutions"]}
           buttons={[
-            { text: "Start Your Project", href: "contact" },
+            { text: "Start New project", href: "contact" },
             { text: "See Our Work", href: "portfolio" }
           ]}
           showcaseImageSrc="https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_30ordogEOn7VO6LZdIWb5atLXky/uploaded-1765451801064-vxrx5d46.jpg"
