@@ -39,7 +39,7 @@ export default function LandingPage() {
 
       <div id="hero" data-section="hero">
         <HeroShowcaseSplit
-          title="Transform Your Ideas Into Digital Reality"
+          title="Yo man, look here"
           description="We build scalable, innovative software solutions that drive growth. From concept to deployment, we deliver excellence at every step."
           tags={["Custom Software", "Web Development", "Mobile Apps", "Cloud Solutions"]}
           buttons={[
